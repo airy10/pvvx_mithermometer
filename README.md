@@ -1,4 +1,4 @@
-# esphome component for Xiaomi Mijia devices using pvvr custom firmware and "Custom" advertising
+# esphome component for Xiaomi Mijia devices using pvvx custom firmware and "Custom" advertising
 
 ## Firmware:
 [https://github.com/pvvx/ATC_MiThermometer
