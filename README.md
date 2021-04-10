@@ -2,11 +2,11 @@
 
 ## Firmware:
 [https://github.com/pvvx/ATC_MiThermometer
-]()
+](https://github.com/pvvx/ATC_MiThermometer)
 
 ## Component doc: 
 [https://esphome.io/components/sensor/xiaomi_ble.html#lywsd03mmc
-]()
+](https://esphome.io/components/sensor/xiaomi_ble.html#lywsd03mmc)
 Just replace the component name from *"**atc_mithermometer***" to "***pvvx_mithermometer***"
 
 ## Installation:
